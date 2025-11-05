@@ -8,5 +8,5 @@ export const personalData = {
   phone: '+94 772055944',
   github: 'https://github.com/Mushahid-Muzammir',
   linkedIn: 'https://linkedin.com/in/mushahid-muzammir',
-  resume: "https://drive.google.com/file/d/1wO9RehEOlEF5k9-n0mCX2-32Baac17z5/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1GwKqjndZYcq1ERAavzANd0LBp4XQrICp/view?usp=sharing"
 }
