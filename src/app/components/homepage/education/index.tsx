@@ -22,13 +22,12 @@ function Education() {
         </div>
       </div>
 
-      <div className="flex justify-center my-5 lg:py-8">
-        <div className="flex  items-center">
-          <span className="w-24 h-[2px] bg-[#1a1443]"></span>
-          <span className="bg-[#1a1443] w-fit text-white p-2 px-5 text-xl rounded-md">
-            Educations
-          </span>
-          <span className="w-24 h-[2px] bg-[#1a1443]"></span>
+      <div className="py-5 sticky top-10">
+        <div className="w-[80px] h-[80px] bg-violet-100 rounded-full absolute -top-3 left-0 translate-x-1/2 filter blur-3xl  opacity-30"></div>
+        <div className="flex justify-center items-center">
+          <h2 className="text-3xl font-bold uppercase text-white pb-6 border-b-2 border-[#16f2b3]">
+            EDUCATION
+          </h2>
         </div>
       </div>
 
