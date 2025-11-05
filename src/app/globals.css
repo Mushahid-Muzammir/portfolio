@@ -1,25 +1,16 @@
 @tailwind base;
- @tailwind components;
-  @tailwind utilities;
-  
-  /* Light mode variables */ 
-  :root 
-  { --background: #ffffff; 
-    --foreground: #171717; 
-  }
+@tailwind components;
+@tailwind utilities;
 
-   /* Dark mode variables */ 
-   @media (prefers-color-scheme: dark) { 
-    :root { 
-      --background: #0a0a0a; 
-      --foreground: #ededed;
-      --font-poppins: "Poppins", sans-serif 
-    } 
-  } 
+/* Force Dark Theme */
+:root {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+  --font-poppins: "Poppins", sans-serif;
+}
 
-   body { 
-    background: var(--background); 
-    color: var(--foreground); 
-    font-family: var(--font-poppins); 
-    padding: 25px;
-  }
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-poppins);
+}
