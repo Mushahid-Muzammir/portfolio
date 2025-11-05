@@ -20,7 +20,7 @@ import django from '../src/app/assets/svg/skills/django.svg';
 import docker from '../src/app/assets/svg/skills/docker.svg';
 import fastify from '../src/app/assets/svg/skills/fastify.svg';
 import figma from '../src/app/assets/svg/skills/figma.svg';
-import firebase from '../src./app/assets/svg/skills/firebase.svg';
+import firebase from '../src/app/assets/svg/skills/firebase.svg';
 import flutter from '../src/app/assets/svg/skills/flutter.svg';
 import gcp from '../src/app/assets/svg/skills/gcp.svg';
 import gimp from '../src/app/assets/svg/skills/gimp.svg';
